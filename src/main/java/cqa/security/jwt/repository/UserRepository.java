@@ -1,6 +1,6 @@
-package cqa.security.jwt.user.repository;
+package cqa.security.jwt.repository;
 
-import cqa.security.jwt.user.model.User;
+import cqa.security.jwt.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

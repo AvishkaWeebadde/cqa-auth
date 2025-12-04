@@ -1,6 +1,6 @@
-package cqa.security.jwt.user.model;
+package cqa.security.jwt.model;
 
-import cqa.security.jwt.user.enumeration.Role;
+import cqa.security.jwt.enumeration.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
